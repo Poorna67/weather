@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather",
+  "description": "An elegant, AI-powered weather app featuring Material 3 UI themes, offline support with Room, and Gemini-powered personalized weather forecasts and clothing guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
